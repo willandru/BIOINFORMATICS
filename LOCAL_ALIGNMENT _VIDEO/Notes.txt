@@ -1,0 +1,16 @@
+
+HISTORY:
+
+1970- Saul B. Needleman and Chirstian D. Wuncsh-> Proposed the Needleman-Wunsh algorithm for global alignment. "Iterative calculation of a matrix for the porpuse of showing global alignment" O(mn).
+
+1976- Waterman added the concepts of gaps.
+
+1981- Smith and Waterman published algorithm for local alignment O(m²n).
+
+Gotoh and Atschul optimized th algorithm to O(mn).
+
+Myers and Miller optimezed to O(n) linear complexity. 
+
+
+MOTIVATION:
+
