@@ -14,3 +14,5 @@ Myers and Miller optimezed to O(n) linear complexity.
 
 MOTIVATION:
 
+- Genome projects generated massive amount of sequence data for genes and proteins.
+- Seuquence alignments shows the relations between genes or between proteins. Can also reveal conserved domains and motifs. 
