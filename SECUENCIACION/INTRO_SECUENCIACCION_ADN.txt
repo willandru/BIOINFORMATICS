@@ -1,0 +1,47 @@
+INRODUCCIÓN A LA SECUENCIACIÓN DE ADN
+
+RESUMEN: Uno tienen un organismo ibologico, se hace extraccion del ADN
+
+3.200 millones de letras del GENOMA HUMANA
+5 milloes E.coli
+670.000 millones ameba Polychaos Dubia
+
+
+
+Metodoos de secuenciacion: Estan separados en NGS(next generation sequencing (primar, segunda, tercera, cueraat generacion)). TEcnologías de proxima generación
+
+
+Metagenomica--> Secuenciar multiples organismos, para estudiar los nichos biologicos. 
+
+METODO DE SECUENCIACIÓN SANGER
+
+Es el metodo madre de la secuenciación actual . "Gold sTANDAR" Pues a pezar de ser lenta y no tener tanto output es muy precisa. 
+Se tienen DNTPs marcados co un flurocromo, se ejecuta un PCR y se obtendran miles de fragmentos de sdsitintos tamaños, ya que los DNTPs tambien detienen la reaccion al momento de agregarse.
+
+Se obtendra un ELECTROFEROGRAMA
+	*Base CALLING--> Uno oobtienenla base de acuerdo a l longitud de onda
+	*Al inciion de la secuencia en donde esta el primer ocurre algo de ruido.
+	* Ya no hay tantas N se creo base de datos RefSeq para limipiar un poco NCBI de .
+	* archivos .abi
+
+	Lipton-  "The Biology of Belif"
+
+	Proyecto GEnoma Humano - Proyecto ENcode
+
+
+	ILUMINA:
+
+	Se parte el ADN de todas las celulas en fragmentos aleatorios.
+	Los fragmentos se arregla para tener finales de fragmentos rectos
+	Se hace el Tgging o se pone un fragmento especifico a cada lado. 
+	Se hace una seleccion del tamaños adecuados, perdiedno algo de ADN, pero se tiene conscentracion ufuciente para tener tood el ADN selecionada
+
+	Los pedacitos que pasaron el size-selection pasan a la etapa de amplificación en el caso de ilumina y 454 lo haceian en perlitas de oro
+
+
+	GENOMICA_Todo el ADN
+	METAGENÓMICA: Todo el ADN de un nicho de organismos
+	TRANSCRIPTOMICA: Todo el ARN
+	METATRANSCRIPTÓMICA
+	EXÓMICAS: Solo los exones (genes)
+	MetaBarcoding: Otra omica NUEVA MUY INTERESANTE: Marcadores moleculares o abrcodings (como 16S en procariotas)
