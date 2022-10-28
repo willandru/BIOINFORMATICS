@@ -1,0 +1,15 @@
+Vimos la Sanger Seuqencing: Marcado con un fluorocromo.
+
+ADN sequencing ha cambiado el rumbo de la tecnologia , la  investigacion , medicina personalizasa.
+
+illumina: secuenciacion por sintesis: de  las tecninas mas usadas de una empresa llamada solexa.
+Calidad precio buena, tasa de error cada vez menor+
+
+PROFUNCIDDAD DE SECUENCIDAD: el numero de eveces queesta representada cada opsisicion del genoma. 
+NovaSeq 70 Gb, HUman 3 Gb -> 23 VECES, tiene
+
+
+
+ALINEAMIENTO
+DE NOVO.: COEOJ TODOS LOS READS Y COMPARA TODOS CON TODOS POR REGIONES
+REFERENCIA: Algiuien ya ensamblo un genoma antes , tomo como plantilla algo que ya ha ehco eso antes
