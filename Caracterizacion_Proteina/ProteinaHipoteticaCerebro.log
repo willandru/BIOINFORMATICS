@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  18 NOV 2022 02:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  18 NOV 2022 12:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -135,21 +135,6 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box54
 ) (./ProteinaHipoteticaCerebro.aux
 
-LaTeX Warning: Label `18' multiply defined.
-
-
-LaTeX Warning: Label `IEEEhowto:Monteria' multiply defined.
-
-
-LaTeX Warning: Label `IEEEhowto:Monteria' multiply defined.
-
-
-LaTeX Warning: Label `IEEEhowto:Monteria' multiply defined.
-
-
-LaTeX Warning: Label `IEEEhowto:Monteria' multiply defined.
-
-
 LaTeX Warning: Label `IEEEhowto:Monteria' multiply defined.
 
 )
@@ -214,214 +199,309 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/scit' undefined
+(Font)              using `OT1/ptm/b/it' instead on input line 75.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 74.
+(Font)              <7> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 74.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              <5> on input line 75.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/scit' undefined
+(Font)              using `OT1/ptm/b/it' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/scit' undefined
+(Font)              using `OT1/ptm/b/it' instead on input line 75.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 2617) in paragraph at lines 100--102
-[] \OT1/ptm/b/n/10 Sec-ondary struc-ture pre-dic-tion \OT1/ptm/m/n/10 La plataforma de
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+[]\OT1/ptm/m/n/10 Se im-ple-ment[]o MUS-CLE ($\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
  []
 
-<imagenes/flujograma.png, id=9, 121.45375pt x 864.22874pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+\OML/cmm/m/it/10 ==www:ebi:ac:uk=Tools=msa=muscle=$\OT1/ptm/m/n/10 ), her-ramienta
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 101--102
+[]\OT1/ptm/m/n/10 Se de-ter-mi-naron las propiedades fisi-coqu[]^^Pmicas de la
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 105--106
+[]\OT1/ptm/m/n/10 Se uti-liz[]o DeepLoc ($\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ==deeploc:cs:uni \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\OT1/ptm/m/n/10 La plataforma de PSIPRED ($\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 113--114
+\OML/cmm/m/it/10 ==bioinf:cs:ucl:ac:uk=psipred=$\OT1/ptm/m/n/10 ) nos per-miti[]o vi-su-alizar
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 113--114
+\OT1/ptm/m/n/10 de la prote[]^^Pna. Del mismo modo, SOPMA ($\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OML/cmm/m/it/10 npsa\OT1/cmr/m/n/10 %20[]\OML/cmm/m/it/10 opma:html$\OT1/ptm/m/n/10 ) ar-roja in-for-maci[]on so-bre las
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 121--122
+[]\OT1/ptm/m/n/10 La eval-u-aci[]on de los mod-e-los tridi-men-sion-ales predi-
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 121--122
+\OT1/ptm/m/n/10 chos por Swiss Model, Al-phafold y Phyre2 se evalu[]o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]\OT1/ptm/m/n/10 A pe-sar de la falta de in-for-maci[]on so-bre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\OT1/ptm/m/n/10 la es-truc-tura tridi-men-sional de la prote[]^^Pna
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\OT1/ptm/m/n/10 hipot[]etica, se uti-liz[]o el pro-grama CASTp ($\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\OML/cmm/m/it/10 ==sts:bioe:uic:edu=castp=index:html\OT1/cmr/m/n/10 ?2\OML/cmm/m/it/10 was$\OT1/ptm/m/n/10 ) para
+ []
+
+<imagenes/flujograma.png, id=10, 121.45375pt x 864.22874pt>
 File: imagenes/flujograma.png Graphic file (type png)
 <use imagenes/flujograma.png>
-Package pdftex.def Info: imagenes/flujograma.png  used on input line 117.
+Package pdftex.def Info: imagenes/flujograma.png  used on input line 132.
 (pdftex.def)             Requested size: 56.9055pt x 404.9216pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imagenes/similitudes.png, id=11, 429.40425pt x 265.59225pt>
+<imagenes/similitudes.png, id=12, 429.40425pt x 265.59225pt>
 File: imagenes/similitudes.png Graphic file (type png)
 <use imagenes/similitudes.png>
-Package pdftex.def Info: imagenes/similitudes.png  used on input line 126.
+Package pdftex.def Info: imagenes/similitudes.png  used on input line 142.
 (pdftex.def)             Requested size: 241.84842pt x 149.58978pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 134.
+(Font)              <8> on input line 150.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 134.
+(Font)              <6> on input line 150.
 
-Overfull \hbox (3.55188pt too wide) in paragraph at lines 152--162
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (3.55188pt too wide) in paragraph at lines 168--178
 [][] 
  []
 
-<imagenes/arbol2.png, id=12, 469.755pt x 82.80937pt>
-File: imagenes/arbol2.png Graphic file (type png)
-<use imagenes/arbol2.png>
-Package pdftex.def Info: imagenes/arbol2.png  used on input line 167.
-(pdftex.def)             Requested size: 241.84842pt x 42.63277pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<imagenes/arbol3.png, id=13, 469.755pt x 101.62968pt>
+[2]
+<imagenes/arbol3.png, id=20, 469.755pt x 101.62968pt>
 File: imagenes/arbol3.png Graphic file (type png)
 <use imagenes/arbol3.png>
-Package pdftex.def Info: imagenes/arbol3.png  used on input line 174.
+Package pdftex.def Info: imagenes/arbol3.png  used on input line 188.
 (pdftex.def)             Requested size: 241.84842pt x 52.32202pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<imagenes/localizacion.png, id=14, 451.6875pt x 358.33875pt>
+ [3 <./imagenes/flujograma.png> <./imagenes/similitudes.png> <./imagenes/arbol3.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 220.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<imagenes/localizacion.png, id=31, 451.6875pt x 358.33875pt>
 File: imagenes/localizacion.png Graphic file (type png)
 <use imagenes/localizacion.png>
-Package pdftex.def Info: imagenes/localizacion.png  used on input line 202.
+Package pdftex.def Info: imagenes/localizacion.png  used on input line 236.
 (pdftex.def)             Requested size: 241.84842pt x 191.87064pt.
-
-Underfull \vbox (badness 5302) has occurred while \output is active []
-
- [2 <./imagenes/flujograma.png> <./imagenes/similitudes.png>]
-<imagenes/loca.png, id=23, 274.02374pt x 389.455pt>
-File: imagenes/loca.png Graphic file (type png)
-<use imagenes/loca.png>
-Package pdftex.def Info: imagenes/loca.png  used on input line 209.
-(pdftex.def)             Requested size: 199.16928pt x 283.0756pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imagenes/loca2.png, id=24, 486.31688pt x 28.60687pt>
+<imagenes/loca.png, id=32, 274.02374pt x 389.455pt>
+File: imagenes/loca.png Graphic file (type png)
+<use imagenes/loca.png>
+Package pdftex.def Info: imagenes/loca.png  used on input line 244.
+(pdftex.def)             Requested size: 199.16928pt x 283.0756pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/loca2.png, id=33, 486.31688pt x 28.60687pt>
 File: imagenes/loca2.png Graphic file (type png)
 <use imagenes/loca2.png>
-Package pdftex.def Info: imagenes/loca2.png  used on input line 216.
+Package pdftex.def Info: imagenes/loca2.png  used on input line 253.
 (pdftex.def)             Requested size: 241.84842pt x 14.22614pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imagenes/dominios.png, id=25, 578.16pt x 192.72pt>
+[4 <./imagenes/localizacion.png> <./imagenes/loca.png> <./imagenes/loca2.png>]
+<imagenes/dominios.png, id=40, 1130.2225pt x 377.41pt>
 File: imagenes/dominios.png Graphic file (type png)
 <use imagenes/dominios.png>
-Package pdftex.def Info: imagenes/dominios.png  used on input line 225.
-(pdftex.def)             Requested size: 241.84842pt x 80.61542pt.
+Package pdftex.def Info: imagenes/dominios.png  used on input line 265.
+(pdftex.def)             Requested size: 284.52756pt x 95.00876pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (32.52756pt too wide) in paragraph at lines 265--266
+ [] 
+ []
 
-<imagenes/motivos.png, id=26, 469.755pt x 59.47218pt>
+<imagenes/motivos.png, id=41, 469.755pt x 59.47218pt>
 File: imagenes/motivos.png Graphic file (type png)
 <use imagenes/motivos.png>
-Package pdftex.def Info: imagenes/motivos.png  used on input line 232.
+Package pdftex.def Info: imagenes/motivos.png  used on input line 274.
 (pdftex.def)             Requested size: 241.84842pt x 30.61807pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<imagenes/secundaria.png, id=27, 437.2335pt x 281.853pt>
+<imagenes/secundaria.png, id=42, 437.2335pt x 281.853pt>
 File: imagenes/secundaria.png Graphic file (type png)
 <use imagenes/secundaria.png>
-Package pdftex.def Info: imagenes/secundaria.png  used on input line 244.
+Package pdftex.def Info: imagenes/secundaria.png  used on input line 287.
 (pdftex.def)             Requested size: 241.84842pt x 155.90558pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 251.
-
-File: imagenes/dominios.png Graphic file (type png)
-<use imagenes/dominios.png>
-Package pdftex.def Info: imagenes/dominios.png  used on input line 266.
-(pdftex.def)             Requested size: 241.84842pt x 80.61542pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<imagenes/swiss.png, id=28, 281.853pt x 166.878pt>
+<imagenes/barras.png, id=43, 371.88937pt x 185.19188pt>
+File: imagenes/barras.png Graphic file (type png)
+<use imagenes/barras.png>
+Package pdftex.def Info: imagenes/barras.png  used on input line 312.
+(pdftex.def)             Requested size: 241.84842pt x 120.43826pt.
+<imagenes/swiss.png, id=44, 281.853pt x 166.878pt>
 File: imagenes/swiss.png Graphic file (type png)
 <use imagenes/swiss.png>
-Package pdftex.def Info: imagenes/swiss.png  used on input line 273.
+Package pdftex.def Info: imagenes/swiss.png  used on input line 319.
 (pdftex.def)             Requested size: 241.84842pt x 143.19652pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3 <./imagenes/arbol2.png> <./imagenes/arbol3.png> <./imagenes/localizacion.png> <./imagenes/loca.png> <./imagenes/loca2.png> <./imagenes/dominios.png> <./imagenes/motivos.png>]
-<imagenes/alpha1.png, id=40, 335.45325pt x 76.48575pt>
+[5 <./imagenes/dominios.png> <./imagenes/motivos.png> <./imagenes/secundaria.png> <./imagenes/barras.png> <./imagenes/swiss.png>]
+<imagenes/alpha1.png, id=53, 335.45325pt x 76.48575pt>
 File: imagenes/alpha1.png Graphic file (type png)
 <use imagenes/alpha1.png>
-Package pdftex.def Info: imagenes/alpha1.png  used on input line 283.
+Package pdftex.def Info: imagenes/alpha1.png  used on input line 331.
 (pdftex.def)             Requested size: 241.84842pt x 55.14552pt.
+<imagenes/alpha2.png, id=54, 462.72874pt x 373.395pt>
+File: imagenes/alpha2.png Graphic file (type png)
+<use imagenes/alpha2.png>
+Package pdftex.def Info: imagenes/alpha2.png  used on input line 341.
+(pdftex.def)             Requested size: 241.84842pt x 195.15788pt.
+<imagenes/phyre.JPG, id=55, 269.20575pt x 267.399pt>
+File: imagenes/phyre.JPG Graphic file (type jpg)
+<use imagenes/phyre.JPG>
+Package pdftex.def Info: imagenes/phyre.JPG  used on input line 354.
+(pdftex.def)             Requested size: 170.71652pt x 169.56798pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imagenes/alpha2.png, id=41, 462.72874pt x 373.395pt>
-File: imagenes/alpha2.png Graphic file (type png)
-<use imagenes/alpha2.png>
-Package pdftex.def Info: imagenes/alpha2.png  used on input line 292.
-(pdftex.def)             Requested size: 241.84842pt x 195.15788pt.
-<imagenes/phyre.JPG, id=42, 269.20575pt x 267.399pt>
-File: imagenes/phyre.JPG Graphic file (type jpg)
-<use imagenes/phyre.JPG>
-Package pdftex.def Info: imagenes/phyre.JPG  used on input line 304.
-(pdftex.def)             Requested size: 170.71652pt x 169.56798pt.
-[4 <./imagenes/secundaria.png> <./imagenes/swiss.png> <./imagenes/alpha1.png> <./imagenes/alpha2.png> <./imagenes/phyre.JPG>]
-<imagenes/procheck.png, id=49, 469.755pt x 234.8775pt>
+<imagenes/procheck.png, id=56, 469.755pt x 234.8775pt>
 File: imagenes/procheck.png Graphic file (type png)
 <use imagenes/procheck.png>
-Package pdftex.def Info: imagenes/procheck.png  used on input line 313.
+Package pdftex.def Info: imagenes/procheck.png  used on input line 368.
 (pdftex.def)             Requested size: 241.84842pt x 120.92204pt.
-<imagenes/ramachandran.png, id=50, 251.9595pt x 258.201pt>
+<imagenes/ramachandran.png, id=57, 251.9595pt x 258.201pt>
 File: imagenes/ramachandran.png Graphic file (type png)
 <use imagenes/ramachandran.png>
-Package pdftex.def Info: imagenes/ramachandran.png  used on input line 323.
+Package pdftex.def Info: imagenes/ramachandran.png  used on input line 375.
 (pdftex.def)             Requested size: 170.71652pt x 174.94792pt.
-<imagenes/interaccion.png, id=51, 196.7715pt x 195.129pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./imagenes/alpha1.png> <./imagenes/alpha2.png> <./imagenes/phyre.JPG> <./imagenes/procheck.png>]
+<imagenes/interaccion.png, id=63, 196.7715pt x 195.129pt>
 File: imagenes/interaccion.png Graphic file (type png)
 <use imagenes/interaccion.png>
-Package pdftex.def Info: imagenes/interaccion.png  used on input line 339.
+Package pdftex.def Info: imagenes/interaccion.png  used on input line 391.
 (pdftex.def)             Requested size: 170.71652pt x 169.29338pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 345.
+               Default added (so using `tbp') on input line 397.
 
-<imagenes/activo.png, id=52, 552.56438pt x 453.19313pt>
+<imagenes/activo.png, id=64, 445.665pt x 362.85562pt>
 File: imagenes/activo.png Graphic file (type png)
 <use imagenes/activo.png>
-Package pdftex.def Info: imagenes/activo.png  used on input line 366.
-(pdftex.def)             Requested size: 170.71652pt x 140.01126pt.
-[5 <./imagenes/procheck.png> <./imagenes/ramachandran.png> <./imagenes/interaccion.png> <./imagenes/activo.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-[]\OT1/ptm/m/n/8 areatecnologia., area tec-nolo-gia, [En l[]^^Pnea]. Avail-able:
+Package pdftex.def Info: imagenes/activo.png  used on input line 419.
+(pdftex.def)             Requested size: 170.71652pt x 138.99391pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/seq.png, id=65, 802.197pt x 236.082pt>
+File: imagenes/seq.png Graphic file (type png)
+<use imagenes/seq.png>
+Package pdftex.def Info: imagenes/seq.png  used on input line 427.
+(pdftex.def)             Requested size: 256.0748pt x 75.36046pt.
+
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 427--428
+ [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-\OT1/ptm/m/n/8 https://www.areatecnologia.com/materiales/ensayo-de-traccion.html.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (6.36992pt too high) has occurred while \output is active []
+
+ [7 <./imagenes/ramachandran.png> <./imagenes/interaccion.png> <./imagenes/activo.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 435.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
+[]$\OML/cmm/m/it/8 Cochran; A:G:; Conery; A:R:\OT1/cmr/m/n/8 &\OML/cmm/m/it/8 Sims; R:J:Bromodomains \OT1/cmr/m/n/8 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
-[]\OT1/ptm/m/n/8 E. Lawrence, IN-STRON, [En l[]^^Pnea]. Avail-able:
+Overfull \hbox (12.97548pt too wide) in paragraph at lines 488--490
+\OML/cmm/m/it/8 anewtargetclassfordrugdevelopment:NatRevDrugDiscov\OT1/cmr/m/n/8 18\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 609 \OMS/cmsy/m/n/8 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
-\OT1/ptm/m/n/8 https://www.instron.com/en/testing-solutions/iso-standards/iso-527-2.
+Overfull \hbox (77.16959pt too wide) in paragraph at lines 491--493
+[]$\OML/cmm/m/it/8 ZhendongCao; KristaA:Budinich; HuaHuang; KathrinM:Bernt:\OT1/cmr/m/n/8 2021\OML/cmm/m/it/8 :ZMYND\OT1/cmr/m/n/8 8 \OMS/cmsy/m/n/8 ^^@
  []
 
-[6
 
-] (./ProteinaHipoteticaCerebro.aux)
+Overfull \hbox (286.3648pt too wide) in paragraph at lines 491--493
+\OML/cmm/m/it/8 regulatedIRF\OT1/cmr/m/n/8 8\OML/cmm/m/it/8 transcriptionaxisisanacutemyeloidleukemiadependency:ARTICLEMOLECULARCELLVOLUME\OT1/cmr/m/n/8 81\OML/cmm/m/it/8 ; ISSUE\OT1/cmr/m/n/8 17\OML/cmm/m/it/8 ; P\OT1/cmr/m/n/8 3604 \OMS/cmsy/m/n/8 ^^@
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--493
+\OT1/cmr/m/n/8 3622\OML/cmm/m/it/8 :E\OT1/cmr/m/n/8 10\OML/cmm/m/it/8 ; SEPTEMBER\OT1/cmr/m/n/8 02\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 2021\OMS/cmsy/m/n/8 ^^@ \OT1/cmr/m/n/8 : \OML/cmm/m/it/8 https \OT1/cmr/m/n/8 :
+ []
+
+[8 <./imagenes/seq.png>] (./ProteinaHipoteticaCerebro.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3214 strings out of 475075
- 59505 string characters out of 5781541
- 422125 words of memory out of 5000000
- 24576 multiletter control sequences out of 15000+600000
- 505525 words of font info for 87 fonts, out of 8000000 for 9000
+ 3248 strings out of 475075
+ 60049 string characters out of 5781541
+ 430225 words of memory out of 5000000
+ 24604 multiletter control sequences out of 15000+600000
+ 507552 words of font info for 90 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 60i,18n,67p,1436b,278s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ProteinaHipoteticaCerebro.pdf (6 pages, 2165788 bytes).
+ 60i,18n,67p,1680b,278s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ProteinaHipoteticaCerebro.pdf (8 pages, 2033816 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 133 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
